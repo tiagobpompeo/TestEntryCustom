@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{DF88FC97-98B2-4AF3-9BCA-2DED51EFD302}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestEntry.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestEntry/VModel.cs">
+    <Files>
+      <File FileName="TestEntry/MainPage.xaml.cs" Line="22" Column="13" />
+      <File FileName="TestEntry/MainPage.xaml" />
+      <File FileName="TestEntry/EntryCustom.cs" />
+      <File FileName="TestEntry.Android/MultiLineBreakLabelRenderer.cs" />
+      <File FileName="TestEntry.iOS/MultiLineBreakLabelRenderer.cs" />
+      <File FileName="TestEntry/VModel.cs" Line="10" Column="36" />
+      <File FileName="TestEntry/BaseViewModel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestEntry" expanded="True">
+            <Node name="TestEntry" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="VModel.cs" selected="True" />
+            </Node>
+            <Node name="TestEntry.Android" expanded="True" />
+            <Node name="TestEntry.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestEntry.UITests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestEntry.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4A735E3F-3008-43A0-BFBA-31244C4A033D" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

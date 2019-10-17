@@ -1,0 +1,13 @@
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.deps.json
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.dll
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/bin/Debug/netstandard2.0/ref/TestEntry.dll
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/bin/Debug/netstandard2.0/TestEntry.pdb
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.AssemblyInfoInputs.cache
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.AssemblyInfo.cs
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.dll
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/ref/TestEntry.dll
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.pdb
+/Users/tbenaias/Documents/Projects/TestEntry/TestEntry/obj/Debug/netstandard2.0/TestEntry.csprojAssemblyReference.cache
